@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Happy Moments"
+description = "A premium, cinematic creative studio website for Happy Moments, showcasing personalized posters, gifts, events, videos, banners, websites, social media, and study support with direct WhatsApp contact."
+version = "1.0.0"
+id = "artifacts/happy-moments"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23219
+
+[services.development]
+run = "pnpm --filter @workspace/happy-moments run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/happy-moments", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/happy-moments/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23219"
+BASE_PATH = "/"

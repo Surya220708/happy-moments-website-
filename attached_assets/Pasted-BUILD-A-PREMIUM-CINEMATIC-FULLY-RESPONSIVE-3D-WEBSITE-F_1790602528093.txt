@@ -1,0 +1,1427 @@
+BUILD A PREMIUM, CINEMATIC, FULLY RESPONSIVE 3D WEBSITE FOR A CREATIVE BRAND CALLED:
+
+"HAPPY MOMENTS"
+
+TAGLINE:
+
+"Your Moments Have a Story.
+Let Us Turn It Into Something You'll Treasure Forever."
+
+IMPORTANT:
+This website must be created by carefully studying and following the uploaded Happy Moments promotional posters.
+
+The posters are the PRIMARY BRAND REFERENCE.
+
+Do NOT create a generic purple business website.
+
+The website must feel like the physical posters have been transformed into an immersive luxury 3D digital experience.
+
+====================================================
+1. BRAND IDENTITY
+====================================================
+
+Brand:
+HAPPY MOMENTS
+
+Brand concept:
+Create • Celebrate • Remember
+
+The business provides creative, personalized and digital services for individuals, students, couples, families, events and businesses.
+
+Visual personality:
+
+- Premium
+- Elegant
+- Romantic
+- Creative
+- Artistic
+- Warm
+- Modern
+- Luxurious
+- Emotional
+- Trustworthy
+- Memorable
+
+The website should communicate:
+
+"Your idea becomes our creation."
+
+====================================================
+2. EXACT VISUAL LANGUAGE
+====================================================
+
+Use the uploaded posters as the visual source of truth.
+
+Maintain the same overall visual identity:
+
+PRIMARY COLOR:
+Deep Royal Purple
+approximately #4B126F
+
+DARK PURPLE:
+approximately #2B123F
+
+VIOLET:
+approximately #7624A8
+
+LIGHT LAVENDER:
+approximately #E9D5F3
+
+PASTEL LAVENDER:
+approximately #F4E8F8
+
+SOFT IVORY:
+approximately #FFF9FC
+
+PINK / MAGENTA:
+approximately #D51B70
+
+GOLD:
+approximately #D9A52E
+
+SOFT GOLD:
+approximately #F3D477
+
+WHITE:
+#FFFFFF
+
+Use gradients such as:
+
+deep purple → violet
+violet → magenta
+lavender → white
+purple → gold highlights
+
+Do NOT use random modern startup colors.
+
+Do NOT introduce blue, green, orange or neon colors except where required inside portfolio artwork.
+
+The entire website must visually belong to the Happy Moments poster family.
+
+====================================================
+3. TYPOGRAPHY
+====================================================
+
+Use an elegant typography system inspired by the posters.
+
+Main headings:
+Playfair Display / Cormorant Garamond / elegant serif equivalent
+
+Supporting headings:
+Poppins / Montserrat
+
+Handwritten decorative text:
+Great Vibes / Allura / elegant script equivalent
+
+Use script typography only for emotional/decorative phrases.
+
+Examples:
+
+"Your Moments Have a Story."
+
+"Beautiful Memories"
+
+"Create • Celebrate • Remember"
+
+"Let's Create Something Amazing Together!"
+
+Headings should feel premium and editorial.
+
+Avoid childish fonts.
+
+====================================================
+4. WEBSITE EXPERIENCE
+====================================================
+
+The website should feel like an interactive digital brochure + premium portfolio + service marketplace.
+
+The user should be able to:
+
+- Explore services
+- View every poster/design
+- View portfolio examples
+- Open designs in large preview
+- Contact Happy Moments through WhatsApp
+- Send a customized request
+- View Instagram
+- Send email
+- View location
+- Request website design
+- Request video editing
+- Request event management
+- Request academic services
+- Request gifts
+- Request social media management
+
+EVERY IMPORTANT SERVICE AND PORTFOLIO ITEM MUST HAVE A CLEAR CTA.
+
+Primary CTA:
+
+"Chat on WhatsApp"
+
+Secondary CTA:
+
+"View Portfolio"
+
+====================================================
+5. HERO SECTION
+====================================================
+
+Create a spectacular cinematic 3D hero.
+
+Background:
+
+Soft ivory/lavender watercolor environment inspired by the posters.
+
+Use:
+
+- floating purple flowers
+- flower petals
+- tiny glowing particles
+- gold sparkles
+- floating hearts
+- translucent lavender particles
+- soft light rays
+- subtle depth-of-field
+
+Center:
+
+3D Happy Moments logo / HM emblem.
+
+The logo should float slightly above the background.
+
+Use realistic 3D depth.
+
+Behind the logo create a soft glowing purple halo.
+
+Hero text:
+
+HAPPY MOMENTS
+
+"Your Moments Have a Story."
+
+"Let Us Turn It Into Something You'll Treasure Forever."
+
+CTA buttons:
+
+[ EXPLORE OUR SERVICES ]
+
+[ CHAT ON WHATSAPP ]
+
+Hero should have subtle mouse parallax.
+
+Flowers should move extremely slowly.
+
+Particles should gently float.
+
+Do not make animation distracting.
+
+====================================================
+6. 3D BRAND LOGO
+====================================================
+
+Create a premium 3D interpretation of the Happy Moments HM logo.
+
+The HM emblem should appear like:
+
+- elegant metallic purple
+- soft pink reflections
+- gold trim
+- glass-like highlights
+- subtle bevel
+- realistic depth
+
+The logo can rotate very slowly when idle.
+
+On mouse movement, introduce subtle 3D tilt.
+
+Do not overdo the rotation.
+
+====================================================
+7. NAVIGATION
+====================================================
+
+Create a premium floating glass navigation bar.
+
+Menu:
+
+HOME
+ABOUT
+SERVICES
+PORTFOLIO
+VIDEOS
+STUDY CRAFT
+EVENTS
+CONTACT
+
+Logo on left.
+
+"WhatsApp" CTA on right.
+
+Desktop:
+Floating pill-shaped navigation.
+
+Mobile:
+Premium animated hamburger menu.
+
+Navigation should remain accessible while scrolling.
+
+====================================================
+8. SERVICES OVERVIEW
+====================================================
+
+Create a large section called:
+
+"OUR SERVICES"
+
+Subtitle:
+
+"Your Vision. Our Creativity. Beautiful Results."
+
+Create 3D service cards.
+
+Each card should appear slightly floating above the page.
+
+Use glassmorphism + purple gradients + soft shadows + gold borders.
+
+Services:
+
+1. Study Craft
+2. Customized Poster Creating
+3. Customized Video Editing
+4. Arts & Gifts
+5. Banner & Flex Designing
+6. Event Management
+7. Instagram Handling
+8. Website Designing
+
+Each card must have:
+
+- 3D icon
+- service title
+- short description
+- hover animation
+- "Explore Service" button
+
+When hovered:
+
+- card moves forward in 3D
+- glow appears
+- icon slightly rotates
+- background gradient changes subtly
+
+====================================================
+9. CUSTOMIZED POSTER DESIGNING
+====================================================
+
+Create a dedicated premium service section.
+
+Title:
+
+"CUSTOMIZED POSTER DESIGNING"
+
+Subtitle:
+
+"Turn your special moments into beautiful memories."
+
+Include categories from the poster:
+
+Birthday & Surprise Posters
+Wedding & Engagement Posters
+Business & Advertisement Posters
+Festival & Event Posters
+Photo & Memory Posters
+Invitation Card Designing
+Visiting Card Creating
+
+Show the uploaded poster designs as portfolio examples.
+
+IMPORTANT:
+
+Every portfolio image must be CLICKABLE.
+
+When clicked:
+
+Open a premium full-screen image viewer/modal.
+
+Show:
+
+- large image
+- image title
+- category
+- description
+- "ORDER THIS DESIGN" button
+- "CUSTOMIZE THIS DESIGN" button
+- WhatsApp button
+
+WhatsApp button must open:
+
+https://wa.me/919444789973
+
+with a pre-filled message similar to:
+
+"Hi Happy Moments, I saw your poster design on your website and would like to create a customized design."
+
+====================================================
+10. ART & GIFT SERVICES
+====================================================
+
+Create a premium 3D gallery.
+
+Services:
+
+Pencil Sketch Portraits
+Color Drawings
+Cartoon Portraits
+Custom Art for Gifts
+Photo Frames
+Keychain Making
+Mobile Charms
+Resin Keychains
+Mobile Covers
+Miniature Gifts
+Personalized Gifts
+
+Display examples in floating 3D frames.
+
+Cards should have realistic shadows.
+
+On hover:
+
+frame moves toward viewer
+image slightly tilts
+gold rim lights up
+soft purple glow appears
+
+Clicking an item opens a large preview + WhatsApp CTA.
+
+====================================================
+11. BANNER & FLEX DESIGNING
+====================================================
+
+Title:
+
+"BANNER MAKING & FLEX DESIGNING"
+
+Subtitle:
+
+"Bold Designs. Big Impact. Maximum Attention."
+
+Services:
+
+Business Banners
+Shop / Store Banners
+Event & Function Banners
+School / College Banners
+Product Launch Banners
+Grand Opening Banners
+
+Create a portfolio wall using the supplied poster examples.
+
+Each design must be clickable.
+
+Add:
+
+"Create a Banner Like This"
+
+button.
+
+WhatsApp CTA should automatically include:
+
+"Hi Happy Moments, I need a banner/flex design."
+
+====================================================
+12. EVENT MANAGEMENT
+====================================================
+
+Title:
+
+"EVENT MANAGEMENT"
+
+Subtitle:
+
+"We Plan. You Celebrate. We Make It Unforgettable."
+
+Services:
+
+Birthday Party Arrangements
+Engagement & Wedding Events
+Anniversary Celebrations
+Corporate Events
+School / College Events
+Festival & Special Occasions
+Decorations | Themes | Catering
+Entertainment | Photography | MC
+
+Use immersive 3D event cards.
+
+Create visual gallery of:
+
+birthday decoration
+wedding stage
+engagement decoration
+corporate conference
+anniversary setup
+festival decoration
+catering
+live performance
+
+Use subtle cinematic zoom effects.
+
+====================================================
+13. ADDITIONAL SERVICES
+====================================================
+
+Create section:
+
+"ADDITIONAL SERVICES"
+
+Include:
+
+Social Media Post Design
+Social Media Reels Editing
+Flyer / Pamphlet Design
+Menu Card Design
+Thank You Cards
+Visiting Cards
+Certificate Design
+
+Every service has:
+
+3D icon
+preview image
+description
+CTA
+
+====================================================
+14. INSTAGRAM ACCOUNT HANDLING
+====================================================
+
+Create an immersive social media management section.
+
+Title:
+
+"INSTAGRAM ACCOUNT HANDLING"
+
+Subtitle:
+
+"Your Social Media. Our Expertise."
+
+Show an elegant 3D smartphone displaying an Instagram-style interface.
+
+Services:
+
+Content Planning & Creation
+Post Scheduling
+Story & Reel Management
+Engagement with Followers
+Performance Tracking & Reports
+
+Benefits:
+
+Increase Brand Visibility
+Build Real Followers
+Higher Engagement
+Better Conversions
+Consistent Brand Presence
+
+CTA:
+
+"MANAGE MY INSTAGRAM"
+
+This CTA opens WhatsApp.
+
+Pre-filled message:
+
+"Hi Happy Moments, I am interested in Instagram account handling."
+
+Also provide:
+
+"FOLLOW US ON INSTAGRAM"
+
+Instagram:
+
+Happy_Moments_135
+
+====================================================
+15. WEBSITE DESIGNING
+====================================================
+
+Create a premium section:
+
+"CUSTOMIZED WEBSITE DESIGNING"
+
+Subtitle:
+
+"Build Your Online Presence the Right Way!"
+
+Services:
+
+Custom Website Design
+Responsive Design
+Modern User-Friendly Layouts
+SEO Friendly Structure
+Domain & Hosting Setup
+Website Maintenance & Support
+
+Benefits:
+
+Creative & Attractive Designs
+100% Mobile Responsive
+Secure & Reliable
+SEO Optimized
+Ongoing Support & Updates
+
+Create 3D laptop + tablet + smartphone mockups.
+
+Show website screens floating in 3D.
+
+CTA:
+
+"BUILD MY WEBSITE"
+
+WhatsApp message:
+
+"Hi Happy Moments, I am interested in website designing."
+
+====================================================
+16. STUDY CRAFT
+====================================================
+
+Create a dedicated academic services area.
+
+Title:
+
+"STUDY CRAFT"
+
+Subtitle:
+
+"Enhance Your Academic Success!"
+
+Services:
+
+Typing
+Assignments
+Projects
+Reports
+PPTs
+Format, Formulas & One Work Document
+
+Also include:
+
+PDFs for 11th & 12th only
+
+Categories:
+
+FORMAT PDF
+FORMULAS PDF
+DONE WORK DOCUMENT PDF
+
+Clearly present this information exactly as shown in the reference poster.
+
+Do NOT imply unauthorized academic cheating.
+
+Position the service as formatting, presentation, study resources, templates, organization and educational support.
+
+CTA:
+
+"GET STUDY SUPPORT"
+
+WhatsApp prefilled message:
+
+"Hi Happy Moments, I need information about Study Craft services."
+
+====================================================
+17. CUSTOMIZED VIDEO CREATION
+====================================================
+
+Create an immersive video section.
+
+Title:
+
+"CUSTOMIZED VIDEO CREATION"
+
+Subtitle:
+
+"Your Story. Our Creativity."
+
+Categories:
+
+Birthday & Celebration Videos
+Wedding / Engagement Videos
+Anniversary & Couple Videos
+Invitation Videos
+Business Promotional Videos
+Photo + Song Videos
+
+Benefits:
+
+High Quality Output
+Creative & Professional Editing
+100% Customized
+Affordable Prices
+Quick Delivery
+Revisions
+
+Include large cinematic video thumbnails.
+
+Each thumbnail should have:
+
+play button
+hover animation
+3D tilt
+
+Click opens a video modal.
+
+Add:
+
+"CREATE MY VIDEO"
+
+WhatsApp CTA.
+
+====================================================
+18. MASTER PORTFOLIO
+====================================================
+
+Create a major section:
+
+"OUR CREATIONS"
+
+This should contain ALL uploaded posters.
+
+Do NOT leave out any of the supplied designs.
+
+Create filters:
+
+ALL
+POSTERS
+VIDEOS
+ART & GIFTS
+BANNERS
+EVENTS
+SOCIAL MEDIA
+WEBSITES
+ACADEMIC
+BUSINESS
+
+Portfolio layout:
+
+Premium masonry/grid.
+
+Cards should have:
+
+- rounded corners
+- thin gold border
+- glass reflection
+- subtle purple glow
+- 3D depth
+- hover tilt
+- image zoom
+- category label
+
+When clicking any portfolio item:
+
+Open a full-screen premium lightbox.
+
+Inside:
+
+IMAGE
+TITLE
+CATEGORY
+DESCRIPTION
+
+Buttons:
+
+"ORDER THIS"
+"CREATE SIMILAR"
+"WHATSAPP US"
+
+====================================================
+19. EVERY IMAGE MUST BE ACTIONABLE
+====================================================
+
+IMPORTANT.
+
+Do NOT make portfolio images dead images.
+
+Every poster/design/service card must have an action.
+
+Examples:
+
+Poster clicked →
+Open preview →
+"Customize This Poster" →
+WhatsApp.
+
+Birthday poster →
+WhatsApp message:
+"Hi Happy Moments, I want a customized birthday poster."
+
+Wedding poster →
+"Hi Happy Moments, I want a customized wedding/engagement poster."
+
+Banner →
+"I want a banner/flex design."
+
+Video →
+"I want a customized video."
+
+Gift →
+"I want a personalized gift."
+
+Website →
+"I want a website."
+
+Study Craft →
+"I need Study Craft services."
+
+Event →
+"I need event management."
+
+Instagram →
+"I need Instagram account handling."
+
+====================================================
+20. WHATSAPP SYSTEM
+====================================================
+
+Primary WhatsApp number:
+
+9444789973
+
+Use international format:
+
++91 9444789973
+
+WhatsApp URL:
+
+https://wa.me/919444789973
+
+Create a reusable WhatsApp CTA component.
+
+Buttons should support contextual pre-filled messages.
+
+Examples:
+
+Poster:
+"Hi Happy Moments, I am interested in customized poster designing."
+
+Birthday:
+"Hi Happy Moments, I need a birthday poster."
+
+Wedding:
+"Hi Happy Moments, I need a wedding/engagement design."
+
+Video:
+"Hi Happy Moments, I need a customized video."
+
+Banner:
+"Hi Happy Moments, I need a banner/flex design."
+
+Event:
+"Hi Happy Moments, I need event management."
+
+Gift:
+"Hi Happy Moments, I am interested in personalized gifts."
+
+Website:
+"Hi Happy Moments, I am interested in website designing."
+
+Instagram:
+"Hi Happy Moments, I am interested in Instagram account handling."
+
+Study:
+"Hi Happy Moments, I need information about Study Craft."
+
+The message should automatically open WhatsApp.
+
+====================================================
+21. CONTACT SECTION
+====================================================
+
+Create a luxury contact section.
+
+Title:
+
+"LET'S CREATE SOMETHING AMAZING TOGETHER"
+
+Text:
+
+"Share your idea, photos, requirements or existing design.
+We'll create something special for you."
+
+Show:
+
+WHATSAPP
+9444789973
+
+EMAIL
+happymoments0826@gmail.com
+
+INSTAGRAM
+Happy_Moments_135
+
+ADDRESS:
+
+B2, Jumbo Square 62 & 63
+Venkatesa Perumal 2nd Street
+Madipakkam
+Chennai 600092
+
+Create clickable:
+
+WhatsApp
+Email
+Instagram
+Google Maps/location
+
+====================================================
+22. INSTAGRAM QR
+====================================================
+
+Use the supplied Instagram QR artwork if available.
+
+Place it inside a premium 3D glass card.
+
+Text:
+
+"SCAN TO FOLLOW US"
+
+"Happy_Moments_135"
+
+The QR should be clickable as well.
+
+====================================================
+23. FLOATING WHATSAPP BUTTON
+====================================================
+
+Create a persistent floating WhatsApp button.
+
+Position:
+
+bottom-right.
+
+Use:
+
+green WhatsApp icon inside a purple/gold glass orb.
+
+Subtle floating animation.
+
+Tooltip:
+
+"Chat with Happy Moments"
+
+Click → WhatsApp.
+
+On mobile make it slightly larger and easy to tap.
+
+====================================================
+24. 3D INTERACTION SYSTEM
+====================================================
+
+The website must feel genuinely 3D.
+
+Use:
+
+Three.js / React Three Fiber / Framer Motion / GSAP where appropriate.
+
+Implement:
+
+- 3D floating logo
+- 3D cards
+- parallax flowers
+- depth layers
+- floating particles
+- mouse-follow light
+- card tilt
+- glass reflections
+- soft shadows
+- scroll-based animations
+- cinematic section transitions
+- depth-of-field style effects
+- subtle camera movement
+- 3D phone mockup
+- 3D laptop mockup
+- floating portfolio frames
+
+BUT:
+
+Performance is extremely important.
+
+Do not overload the page with heavy WebGL.
+
+Use optimized 3D assets.
+
+Respect:
+
+prefers-reduced-motion.
+
+====================================================
+25. 3D PORTFOLIO WALL
+====================================================
+
+Create a special section where the poster designs appear as floating physical prints.
+
+Imagine entering a digital design studio.
+
+Posters float in 3D space.
+
+Some are:
+
+- slightly rotated
+- some closer
+- some farther away
+- some hanging like premium framed artwork
+
+When user moves mouse:
+
+the wall responds subtly.
+
+When a poster is selected:
+
+camera smoothly moves toward the poster.
+
+Then show:
+
+"VIEW DESIGN"
+
+"ORDER THIS"
+
+This should be one of the signature experiences of the website.
+
+====================================================
+26. 3D FLOWER ENVIRONMENT
+====================================================
+
+Use the purple flowers from the posters as the website's visual motif.
+
+Flowers should appear around:
+
+Hero
+Services
+Portfolio
+Contact
+Footer
+
+But DO NOT overcrowd the content.
+
+Use flowers as elegant framing elements.
+
+Some petals can slowly fall.
+
+Some leaves can move gently.
+
+Gold sparkles can occasionally appear.
+
+====================================================
+27. SCROLL EXPERIENCE
+====================================================
+
+Create cinematic scrolling.
+
+Hero:
+
+Logo floating.
+
+Scroll:
+
+Flowers move backward.
+
+Services:
+
+Cards rise from depth.
+
+Portfolio:
+
+Posters emerge like physical prints.
+
+Video:
+
+Cinema-style reveal.
+
+Website:
+
+3D laptop rotates slightly.
+
+Events:
+
+Photo gallery moves forward.
+
+Contact:
+
+Everything converges around the Happy Moments logo.
+
+Footer:
+
+Luxury purple gradient.
+
+====================================================
+28. PREMIUM FOOTER
+====================================================
+
+Footer background:
+
+deep purple → dark violet.
+
+Include:
+
+HAPPY MOMENTS logo
+
+"Create • Celebrate • Remember"
+
+Quick links:
+
+Home
+Services
+Portfolio
+Videos
+Contact
+
+Services links.
+
+Contact:
+
+9444789973
+happymoments0826@gmail.com
+
+Instagram:
+
+Happy_Moments_135
+
+CTA:
+
+"Let's Create Beautiful Memories."
+
+Add gold decorative lines.
+
+Add small purple flowers.
+
+====================================================
+29. RESPONSIVE DESIGN
+====================================================
+
+Desktop:
+
+Ultra-premium cinematic experience.
+
+Tablet:
+
+Maintain 3D but simplify animations.
+
+Mobile:
+
+Fast, clean and touch-friendly.
+
+Important:
+
+Do not simply shrink the desktop design.
+
+Create an actual mobile experience.
+
+Mobile portfolio should become swipeable cards.
+
+Mobile service cards should stack.
+
+Mobile 3D effects should be reduced for performance.
+
+WhatsApp CTA must remain extremely accessible.
+
+====================================================
+30. MICROINTERACTIONS
+====================================================
+
+Buttons:
+
+purple → magenta gradient on hover.
+
+Gold glow.
+
+Soft scale animation.
+
+Portfolio:
+
+image zoom 1.05x.
+
+Card:
+
+translateY(-8px)
+rotateX/rotateY subtle tilt.
+
+Links:
+
+animated underline.
+
+WhatsApp:
+
+gentle pulse.
+
+Icons:
+
+small hover rotation.
+
+====================================================
+31. LOADING EXPERIENCE
+====================================================
+
+Create an elegant loading screen.
+
+Background:
+
+deep purple.
+
+Centered:
+
+3D HM logo.
+
+Below:
+
+HAPPY MOMENTS
+
+"Create • Celebrate • Remember"
+
+Gold loading line.
+
+After loading:
+
+logo gently dissolves into the main website.
+
+Keep loading under approximately 2 seconds where possible.
+
+====================================================
+32. PERFORMANCE
+====================================================
+
+Must be production-quality.
+
+Optimize:
+
+Images
+WebGL
+Textures
+Fonts
+Animations
+
+Use lazy loading.
+
+Use responsive images.
+
+Use WebP/AVIF where possible.
+
+Do not load every huge poster image immediately.
+
+Portfolio images should lazy load.
+
+Use compressed thumbnails.
+
+====================================================
+33. SEO
+====================================================
+
+Page title:
+
+Happy Moments | Creative Design, Video, Events & Digital Services
+
+Meta description:
+
+Happy Moments creates customized posters, videos, banners, gifts, event experiences, websites, social media content and creative designs that turn your special moments into beautiful memories.
+
+Keywords:
+
+Happy Moments
+poster designing
+customized poster design
+birthday poster
+wedding poster
+video editing
+event management
+banner designing
+flex designing
+personalized gifts
+Instagram management
+website designing
+academic services
+Study Craft
+creative design Chennai
+
+====================================================
+34. ACCESSIBILITY
+====================================================
+
+Use:
+
+semantic HTML
+proper contrast
+keyboard navigation
+alt text
+ARIA labels
+accessible buttons
+reduced-motion support
+
+Do not sacrifice usability for visual effects.
+
+====================================================
+35. IMPORTANT BUSINESS LOGIC
+====================================================
+
+Create reusable components:
+
+ServiceCard
+PortfolioCard
+WhatsAppButton
+PortfolioModal
+ImageLightbox
+VideoModal
+ContactCard
+SocialCard
+FloatingWhatsApp
+Navbar
+Footer
+3DScene
+FlowerBackground
+CTASection
+
+Do not duplicate code unnecessarily.
+
+====================================================
+36. CONTENT RULE
+====================================================
+
+Use the content from the supplied Happy Moments posters.
+
+Do NOT invent fake customer reviews.
+
+Do NOT invent fake statistics.
+
+Do NOT invent fake awards.
+
+Do NOT invent fake clients.
+
+Do NOT show fake ratings.
+
+Do NOT use fake testimonials.
+
+If information is not provided, leave it out.
+
+====================================================
+37. FINAL VISUAL TARGET
+====================================================
+
+The final website should look like:
+
+LUXURY CREATIVE STUDIO
++
+DIGITAL ART GALLERY
++
+3D INTERACTIVE PORTFOLIO
++
+EVENT & DESIGN BUSINESS
++
+WHATSAPP LEAD GENERATION WEBSITE
+
+The first impression should be:
+
+"Wow, this looks completely different from a normal business website."
+
+The website should feel like:
+
+a premium purple floral fantasy design studio,
+combined with a luxury digital gallery,
+combined with a modern 3D creative agency.
+
+====================================================
+38. MOST IMPORTANT REQUIREMENT
+====================================================
+
+DO NOT create a generic SaaS landing page.
+
+DO NOT use generic blue/purple gradients.
+
+DO NOT make it look like a dashboard.
+
+DO NOT make it look like a normal WordPress site.
+
+DO NOT remove the floral identity.
+
+DO NOT replace the poster aesthetic.
+
+DO NOT simplify the brand into plain text.
+
+The uploaded posters are the brand identity.
+
+Preserve:
+
+PURPLE
+LAVENDER
+PINK
+GOLD
+IVORY
+FLOWERS
+HEARTS
+SPARKLES
+WATERCOLOR
+ELEGANT SCRIPT
+PREMIUM TYPOGRAPHY
+
+but translate them into a modern 3D web experience.
+
+====================================================
+39. FINAL CTA
+====================================================
+
+At the end of the website show:
+
+"HAVE A MOMENT WORTH REMEMBERING?"
+
+"Share your idea, photos, requirements or dream with us."
+
+"LET'S CREATE SOMETHING BEAUTIFUL TOGETHER."
+
+Buttons:
+
+[ CHAT ON WHATSAPP ]
+
+[ FOLLOW ON INSTAGRAM ]
+
+[ EXPLORE OUR SERVICES ]
+
+WhatsApp:
++91 9444789973
+
+Instagram:
+Happy_Moments_135
+
+====================================================
+40. FINAL QUALITY BAR
+====================================================
+
+Before considering the website complete, verify:
+
+✓ Every service from the posters is represented
+✓ Every supplied portfolio poster is represented
+✓ Every portfolio image is clickable
+✓ Every service has a WhatsApp CTA
+✓ WhatsApp opens correctly
+✓ Contextual WhatsApp messages are generated
+✓ Instagram is clickable
+✓ Email is clickable
+✓ Address is clickable
+✓ QR code is usable
+✓ Mobile responsive
+✓ Desktop responsive
+✓ 3D effects work
+✓ Animations are smooth
+✓ Reduced motion is supported
+✓ Images are lazy loaded
+✓ No fake testimonials
+✓ No fake statistics
+✓ No placeholder content
+✓ No broken images
+✓ No dead buttons
+✓ No generic template styling
+✓ Branding remains consistent with the supplied posters
+
+FINAL RESULT:
+
+Build an A-GRADE, PREMIUM, CINEMATIC, FULLY RESPONSIVE 3D WEBSITE FOR HAPPY MOMENTS THAT FEELS LIKE A DIGITAL VERSION OF THEIR POSTERS — BUT MORE MODERN, INTERACTIVE, LUXURIOUS AND IMMERSIVE.
+
+The website must make visitors immediately understand the services and make it extremely easy to contact the business through WhatsApp.
